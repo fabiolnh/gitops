@@ -1,2 +1,3 @@
-# gitops
-GitOps
+# GitOps (Currently Studying)
+
+- 
