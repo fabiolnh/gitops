@@ -1,4 +1,4 @@
-# GitOps (Currently Studying)
+# GitOps
 
 1) In a "normal life" you have:
 
